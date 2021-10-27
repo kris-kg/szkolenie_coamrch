@@ -1,0 +1,32 @@
+{
+    "pra_info": [
+        {
+            "imie": "Janek",
+            "nazwisko": "Kot",
+            "stanowisko": "dyrektor",
+            "lata_pracy": 6,
+            "email": "jasiokot@firma.pl"
+        },
+        {
+            "imie": "Olga",
+            "nazwisko": "Nowak",
+            "stanowisko": "ksi\u00c4\u2122gowa",
+            "lata_pracy": 4,
+            "email": "olgan@firma.pl"
+        },
+        {
+            "imie": "Ala",
+            "nazwisko": "Kowal",
+            "stanowisko": "sekretarka",
+            "lata_pracy": 2,
+            "email": "alakow@firma.pl"
+        },
+        {
+            "imie": "Piotr",
+            "nazwisko": "Kot",
+            "stanowisko": "programista",
+            "lata_pracy": 7,
+            "email": "pieter@firma.pl"
+        }
+    ]
+}
