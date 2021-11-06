@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dane_kraj>
+  <country name="Liechtenstein" flaga="True">
+    <id>1</id>
+    <rok>2020</rok>
+    <wartP>5565446</wartP>
+    <neighbour name="Austria" direction="E" />
+    <neighbour name="Szwajcaria" direction="W" />
+  </country>
+  <country name="Panama" flaga="Flaga">
+    <id>2</id>
+    <rok>2020</rok>
+    <wartP>344335</wartP>
+    <neighbour name="Kostaryka" direction="W" />
+    <neighbour name="Kolumbia" direction="E" />
+  </country>
+</dane_kraj>

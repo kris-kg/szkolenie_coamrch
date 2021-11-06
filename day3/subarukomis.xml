@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<autokomis>
+  <samochod>
+    <id>sam1</id>
+    <marka>Subaru</marka>
+    <model>Impreza</model>
+    <pojemnosc>2.0</pojemnosc>
+    <wyposazenie_dod>
+      <kolor>czarna perła</kolor>
+      <tapicerka>biała skóra</tapicerka>
+    </wyposazenie_dod>
+  </samochod>
+  <samochod>
+    <id>sam2</id>
+    <marka>Subaru</marka>
+    <model>Outback</model>
+    <pojemnosc>2.2</pojemnosc>
+    <wyposazenie_dod>
+      <kolor>czerwony metallic</kolor>
+      <klimatyzacja>GR33554</klimatyzacja>
+    </wyposazenie_dod>
+  </samochod>
+</autokomis>
